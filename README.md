@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="shivasaxena" /> </p>
 
-- 📝 I regularly write articles on [metalop.com](metalop.com) and [opensourceforyou.com](https://www.opensourceforu.com/author/shiva-saxena/)
+- 📝 I write articles on [metalop.com](metalop.com) and [opensourceforyou.com](https://www.opensourceforu.com/author/shiva-saxena/)
 
 - 💬 Ask me about **Java, Three.js, C#, Security and Compliance**
 
