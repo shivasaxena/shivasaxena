@@ -1,1 +1,448 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="800" width="1200" version="1.0" viewBox="-27.71175 -13.63425 240.1685 81.8055"><defs><clipPath id="a"><path d="M409.441 126.252v-43.63h147.796v43.63"/></clipPath><clipPath id="b"><path d="M409.441 126.252v-43.63h147.796v43.63"/></clipPath></defs><path d="M21.0137 7.9425C16.79 6.0675 14.2712 5.34 11.77 5.34c-2.625 0-4.3063.94-4.3063 2.3925 0 4.3837 14.8713 3.15 14.8713 13.29 0 5.5912-4.6913 8.84-11.2088 8.84-5.1125 0-7.63-1.3225-10.53-2.82V20.77c4.1825 2.7712 6.7425 3.75 9.9688 3.75 2.7975 0 4.3062-.9788 4.3062-2.685C14.8712 17.0612 0 18.81 0 8.3687 0 3.3337 4.3512 0 11.1262 0c3.27 0 6.22.6862 9.8875 2.2637v5.6788M41.835 28.53c-2.4788.8987-4.575 1.3275-6.6663 1.3275-6.9262 0-11.4037-4.0338-11.4037-10.1713 0-6.025 4.6512-10.2812 11.1462-10.2812 2.0063 0 4.5713.5137 6.6225 1.2775v4.6125c-1.6237-.8625-3.5037-1.335-5.0425-1.335-3.7175 0-6.1087 2.2337-6.1087 5.6812 0 3.4963 2.3512 5.7975 5.8937 5.7975 1.495 0 2.8238-.3425 5.5588-1.3662V28.53m54-11.1038c.2537-2.7375 1.8437-4.32 4.2787-4.32 2.3938 0 4.0163 1.6275 4.2725 4.32zm3.8512-8.015c-6.0775 0-10.4037 4.2925-10.4037 10.3325 0 6.085 4.4987 10.1138 11.4325 10.1138 1.5362 0 5.2512 0 8.79-2.6188v-3.8512c-2.8988 2.065-4.8163 2.7762-7.2913 2.7762-3.9062 0-6.295-2.0212-6.5112-5.4712h14.1512c.2938-7.2013-4.4337-11.2813-10.1675-11.2813m12.5613 20.0875h6.1877V9.775h-6.1877zm23.4062-5.3912c-1.2887 1.16-2.36 1.625-3.6812 1.625-2.9138 0-4.7575-2.3975-4.7575-5.9913 0-3.9375 1.8437-6.2075 4.9625-6.2075 1.1162 0 2.5737.5138 3.4762 1.1575zm0-23.7438V10.64c-1.6712-.8088-3.3375-1.235-5.1387-1.235-5.6438 0-9.5488 4.1712-9.5488 10.2075 0 5.9062 3.905 10.25 9.2 10.25 2.1 0 3.7225-.55 5.4875-1.9575v1.5875h6.1863V.3637h-6.1863m15.345 17.0625c.2575-2.7375 1.8388-4.32 4.27-4.32 2.3975 0 4.0363 1.6275 4.2925 4.32zm3.8475-8.015c-6.0762 0-10.395 4.2925-10.395 10.3325 0 6.085 4.4988 10.1138 11.425 10.1138 1.5338 0 5.2563 0 8.8038-2.6188v-3.8512c-2.9025 2.065-4.8238 2.7762-7.31 2.7762-3.885 0-6.2838-2.0212-6.5-5.4712h14.145c.2937-7.2013-4.4375-11.2813-10.1688-11.2813" fill="#009e4d"/><g clip-path="url(#a)" fill="#009e4d" transform="matrix(1.25 0 0 -1.25 -511.8013 157.815)"><path d="M548.863 113.914h.073c1.469 3.284 3.114 4.824 5.023 4.824.989 0 1.842-.377 3.278-1.439l-1.362-4.375c-1.3.82-2.154 1.163-2.939 1.163-1.816 0-2.978-1.712-4.073-4.606v-6.807h-4.956v15.775h4.956v-4.535m-44.442 11.156c.465-1.226-.372-2.936-1.863-3.816-1.497-.879-3.079-.6-3.54.626-.47 1.228.363 2.94 1.858 3.815 1.493.884 3.076.604 3.545-.625"/></g><path d="M64.1212 16.945c0-5.345-3.6325-7.5338-7.2175-7.5338-2.4375 0-4.4412 1.0288-6.2337 3.2975h-.085V.3637h-6.1938v29.0775h6.1938V16.945c1.4487-2.0963 2.6862-2.9925 4.1375-2.9925 1.9262 0 3.2062 1.37 3.2062 4.3162v6.9288c2.0775-1.0675 4.1888-1.7225 6.1925-1.9663V16.945m15.535-7.54c-2.5225 0-4.4487.9375-6.42 3.1925V9.775H67.045v13.4037c2.145.2138 4.8812 1.1975 6.1912 2.8225V16.79c1.6275-2.4425 2.7825-3.2563 4.3225-3.2563 1.7538 0 3.0863 1.1575 3.0863 3.9388v11.975h6.1925V16.96c0-5.8088-4.1025-7.555-7.1813-7.555m10.6013 25.7062h-7.195v5.1125h6.9412v2.1938h-6.9412v5.2737h7.41v2.1913H80.65v-16.96h9.6075v2.1887m5.8762 14.7813h2.204v-16.975h-2.204zm13.115-9.5075c1.5625 0 2.5313 1.0762 2.6038 2.7675H106.24c.3037-1.7663 1.32-2.7675 3.0087-2.7675zM106.2 44.6237h7.8512c0-4.1387-1.8912-6.1362-4.8525-6.1362-3.0725 0-5.2062 2.2712-5.2062 5.6587 0 3.0963 1.9275 5.955 5.3975 5.955 1.8912 0 3.1137-.42 4.4675-1.3187v-2.145c-1.3075.8562-2.5763 1.35-3.9113 1.35-2.135 0-3.4025-1.145-3.7462-3.3638m22.2425-2.9862c-1.2675-.8675-2.1138-1.1225-3.0788-1.1225-2.0175 0-3.415 1.5475-3.415 3.8137 0 2.3088 1.4875 3.7 3.7838 3.7.945 0 1.845-.245 2.9562-.7425V49.46c-.7425.35-2.1575.6412-3.325.6412-3.3375 0-5.6537-2.295-5.6537-5.575 0-3.7012 2.1162-6.0387 5.5025-6.0387 1.2937 0 2.1637.3012 3.23.77v2.38m10.0412-2.9363h3.5375v1.9863h-3.5375v5.74c0 1.3137.9513 1.6937 1.5938 1.6937.7975 0 1.62-.2787 2.5125-.83v2.0675c-.7738.4263-1.9613.7425-2.6888.7425-2.4 0-3.6137-1.49-3.6137-3.5075v-5.9062h-1.9438v-.2463l4.14-4.0512v2.3112m11.965 0V41.29h.045c1.1238-1.9813 2.1925-2.8025 3.2325-2.8025.8975 0 1.7375.4212 2.6613 1.295L155.22 41.725c-.6713-.6638-1.5388-1.1213-2.0625-1.1213-1.5175 0-2.7088 1.5425-2.7088 3.4538v5.835h-2.2012V38.7012h2.2012m28.5225 2.9363c-1.2737-.8675-2.1187-1.1225-3.09-1.1225-2.0125 0-3.3987 1.5475-3.3987 3.8137 0 2.3088 1.4887 3.7 3.7712 3.7.9463 0 1.8413-.245 2.9675-.7425V49.46c-.7587.35-2.175.6412-3.34.6412-3.3325 0-5.6587-2.295-5.6587-5.575 0-3.7012 2.1262-6.0387 5.5125-6.0387 1.2962 0 2.1575.3012 3.2362.77v2.38m-16.7412 8.255h2.2035V38.7016H162.23z" fill="#009e4d"/><g clip-path="url(#b)" fill="#009e4d" transform="matrix(1.25 0 0 -1.25 -511.8013 157.815)"><path d="M541.047 98.507c.172-.432-.129-1.043-.659-1.354-.534-.312-1.099-.212-1.26.221-.161.437.131 1.043.667 1.355.529.316 1.091.215 1.252-.222m-78.917-.724c-.311 0-.442-.051-.569-.193-.05-.055-.07-.111-.088-.223l-1.581-5.996c-.371-2.103-2.954-4.203-6.321-4.203h-4.681l.812 3.081h3.007c.307 0 .547.114.748.338.074.087.17.223.183.363l1.248 5.239c.368 2.104 2.591 4.428 5.957 4.428h4.794l-.613-2.834zm1.08-3.654l.535 1.94h4.87c.601 2.813.128 5.419-1.579 7.126-3.455 3.455-10.683 2.281-16.068-2.871-.841-.8-1.551-1.665-2.198-2.549h2.932l-.682-1.944h-3.503c-.335-.613-.649-1.221-.889-1.838h4.154l-.665-1.944h-4.082c-.698-2.97-.253-5.74 1.503-7.499 3.412-3.411 10.618-2.212 16 2.939.942.896 1.72 1.863 2.423 2.856h-3.767l.574 1.94h4.404c.323.617.62 1.227.852 1.844h-4.814"/></g></svg>
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>File:Schneider Electric 2007.svg - Wikimedia Commons</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"235f629e-ec82-4134-806d-2ae6fb5b3009","wgCSPNonce":!1,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":6,"wgPageName":"File:Schneider_Electric_2007.svg","wgTitle":"Schneider Electric 2007.svg","wgCurRevisionId":403677248,"wgRevisionId":403677248,"wgArticleId":42930420,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Template Unknown (author)","PD textlogo","SVG text logos","With trademark","Schneider Electric logos","Green text logos"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"File:Schneider_Electric_2007.svg","wgRelevantArticleId":
+42930420,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRestrictionUpload":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"commons","wbCopyright":{"version":"wikibase-1","messageHtml":"By clicking \"publish\", you agree to the \u003Ca href=\"/wiki/Commons:Copyrights\" class=\"mw-redirect\" title=\"Commons:Copyrights\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":[],
+"wbMultiLingualStringLimit":250,"wbTaintedReferencesEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"personal","wbmiDefaultProperties":["P180"],"wbmiPropertyTitles":{"P180":"Items portrayed in this file"},"wbmiPropertyTypes":{"P180":"wikibase-item"},"wbmiHelpUrls":{"P180":"https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Depicts"},"wbmiExternalEntitySearchBaseUri":"https://www.wikidata.org/w/api.php","wbmiRepoApiUrl":"/w/api.php","wbmiSupportedDataTypes":["wikibase-item","string","quantity","time","monolingualtext","external-id","globe-coordinate","url"],"wbUserSpecifiedLanguages":["en"],"wbCurrentRevision":null,"wbEntityId":"M42930420","wbEntity":null,"wbmiMinCaptionLength":5,"wbmiMaxCaptionLength":250,"wbmiParsedMessageAnonEditWarning":
+"\u003Cp\u003EYou are not logged in and your \u003Ca href=\"https://en.wikipedia.org/wiki/IP_address\" class=\"extiw\" title=\"w:IP address\"\u003EIP address\u003C/a\u003E will be publicly visible if you make any edits. \u003Ca href=\"/wiki/Special:UserLogin\" title=\"Special:UserLogin\"\u003ELogging in\u003C/a\u003E or \u003Ca href=\"/wiki/Special:CreateAccount\" title=\"Special:CreateAccount\"\u003Ecreating an account\u003C/a\u003E will conceal your IP address and provide you with many other \u003Ca href=\"https://en.wikipedia.org/wiki/Wikipedia:Why_create_an_account%3F\" class=\"extiw\" title=\"w:Wikipedia:Why create an account?\"\u003Ebenefits\u003C/a\u003E. Please do not save test edits. If you want to experiment, please use the \u003Ca href=\"/wiki/Commons:Sandbox\" title=\"Commons:Sandbox\"\u003ESandbox\u003C/a\u003E.\n\u003C/p\u003E","wbmiProtectionMsg":null,"wbmiUserCanEdit":!0};RLSTATE={"ext.gadget.Long-Image-Names-in-Categories":"ready","ext.globalCssJs.user.styles":
+"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","wikibase.mediainfo.filepage.styles":"ready","wikibase.mediainfo.statements.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.metadata","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.Slideshow","ext.gadget.ZoomViewer","ext.gadget.CollapsibleTemplates","ext.gadget.fastcci","ext.gadget.Stockphoto","ext.gadget.WatchlistNotice","ext.gadget.AjaxQuickDelete","ext.gadget.WikiMiniAtlas","ext.gadget.LanguageSelect","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.wikimediaEvents.wikibase","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","wikibase.mediainfo.filePageDisplay","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cmediawiki.action.view.filepage%7Cskins.vector.styles.legacy%7Cwikibase.mediainfo.filepage.styles%7Cwikibase.mediainfo.statements.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.Long-Image-Names-in-Categories&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.7"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/1200px-Schneider_Electric_2007.svg.png"/>
+<meta property="og:title" content="File:Schneider Electric 2007.svg - Wikimedia Commons"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//commons.m.wikimedia.org/wiki/File:Schneider_Electric_2007.svg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=File:Schneider_Electric_2007.svg&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=File:Schneider_Electric_2007.svg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/commons.png"/>
+<link rel="shortcut icon" href="/static/favicon/commons.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikimedia Commons"/>
+<link rel="EditURI" type="application/rsd+xml" href="//commons.wikimedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Schneider_Electric_2007.svg"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject mw-editable page-File_Schneider_Electric_2007_svg rootpage-File_Schneider_Electric_2007_svg skin-vector action-view skin-vector-legacy wb-entitypage wb-mediainfopage wb-mediainfopage-M42930420"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >File:Schneider Electric 2007.svg</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikimedia Commons, the free media repository</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content"><ul id="filetoc"><li><a href="#file">File</a></li>
+<li><a href="#filehistory">File history</a></li>
+<li><a href="#filelinks">File usage on Commons</a></li>
+<li><a href="#globalusage">File usage on other wikis</a></li>
+<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="https://upload.wikimedia.org/wikipedia/commons/9/95/Schneider_Electric_2007.svg"><img alt="File:Schneider Electric 2007.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/189px-Schneider_Electric_2007.svg.png" decoding="async" width="189" height="57" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/284px-Schneider_Electric_2007.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/378px-Schneider_Electric_2007.svg.png 2x" data-file-width="189" data-file-height="57" /></a><div class="mw-filepage-resolutioninfo">Size of this PNG preview of this SVG file: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/189px-Schneider_Electric_2007.svg.png" class="mw-thumbnail-link">189 × 57 pixels</a>. <span class="mw-filepage-other-resolutions">Other resolutions: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/320px-Schneider_Electric_2007.svg.png" class="mw-thumbnail-link">320 × 97 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/640px-Schneider_Electric_2007.svg.png" class="mw-thumbnail-link">640 × 193 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/800px-Schneider_Electric_2007.svg.png" class="mw-thumbnail-link">800 × 241 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/1024px-Schneider_Electric_2007.svg.png" class="mw-thumbnail-link">1,024 × 309 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/1280px-Schneider_Electric_2007.svg.png" class="mw-thumbnail-link">1,280 × 386 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/2560px-Schneider_Electric_2007.svg.png" class="mw-thumbnail-link">2,560 × 772 pixels</a>.</span></div></div>
+<div class="fullMedia"><p><a href="https://upload.wikimedia.org/wikipedia/commons/9/95/Schneider_Electric_2007.svg" class="internal" title="Schneider Electric 2007.svg">Original file</a> &#8206;<span class="fileInfo">(SVG file, nominally 189 × 57 pixels, file size: 12 KB)</span>
+</p></div><div class='wbmi-tabs-container oo-ui-layout oo-ui-panelLayout'><div id='ooui-php-1' class='wbmi-tabs oo-ui-layout oo-ui-menuLayout oo-ui-menuLayout-static oo-ui-menuLayout-top oo-ui-menuLayout-showMenu oo-ui-indexLayout' data-ooui='{"_":"OO.ui.IndexLayout","classes":["wbmi-tabs"],"expanded":false,"menuPanel":{"tag":"ooui-php-2"},"contentPanel":{"tag":"ooui-php-3"},"autoFocus":false,"tabPanels":{"wikiTextPlusCaptions":{"tag":"ooui-php-4"},"statements":{"tag":"ooui-php-5"}},"tabSelectWidget":{"tag":"ooui-php-6"}}'><div aria-hidden='false' class='oo-ui-menuLayout-menu'><div id='ooui-php-2' class='oo-ui-layout oo-ui-panelLayout oo-ui-indexLayout-tabPanel' data-ooui='{"_":"OO.ui.PanelLayout","preserveContent":false,"expanded":false}'><div role='tablist' aria-disabled='false' tabindex='0' id='ooui-php-6' class='oo-ui-selectWidget oo-ui-selectWidget-unpressed oo-ui-widget oo-ui-widget-enabled oo-ui-tabSelectWidget oo-ui-tabSelectWidget-frameless' data-ooui='{"_":"OO.ui.TabSelectWidget","framed":false,"items":[{"tag":"ooui-php-7"},{"tag":"ooui-php-8"}]}'><div aria-disabled='false' aria-selected='true' role='tab' id='ooui-php-7' class='oo-ui-widget oo-ui-widget-enabled oo-ui-optionWidget oo-ui-tabOptionWidget oo-ui-labelElement oo-ui-optionWidget-selected' data-ooui='{"_":"OO.ui.TabOptionWidget","selected":true,"label":"File information","data":"wikiTextPlusCaptions"}'><span class='oo-ui-labelElement-label'>File information</span></div><div aria-disabled='false' aria-selected='false' role='tab' id='ooui-php-8' class='oo-ui-widget oo-ui-widget-enabled oo-ui-optionWidget oo-ui-tabOptionWidget oo-ui-labelElement' data-ooui='{"_":"OO.ui.TabOptionWidget","label":"Structured data","data":"statements"}'><span class='oo-ui-labelElement-label'>Structured data</span></div></div></div></div><div class='oo-ui-menuLayout-content'><div id='ooui-php-3' class='oo-ui-layout oo-ui-panelLayout oo-ui-stackLayout oo-ui-indexLayout-stackLayout' data-ooui='{"_":"OO.ui.StackLayout","preserveContent":false,"expanded":false,"items":[{"tag":"ooui-php-4"},{"tag":"ooui-php-5"}]}'><div role='tabpanel' id='ooui-php-4' class='wbmi-tab oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-scrollable oo-ui-tabPanelLayout' data-ooui='{"_":"OO.ui.TabPanelLayout","name":"wikiTextPlusCaptions","label":"File information","scrollable":true,"expanded":false,"classes":["wbmi-tab"]}'><div class='wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><h3 class='wbmi-entityview-captions-header'>Captions</h3><div class='wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout'><label aria-disabled='false' class='wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget'>English</label><div lang='en' dir='ltr' class='wbmi-caption-value wbmi-entityview-emptyCaption'>Add a one-line explanation of what this file represents</div></div></div><h2 class="wbmi-captions-header">Captions</h2><div id="mw-imagepage-content" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:Schneider_Electric_2007.svg&amp;action=edit&amp;section=1" title="Edit section: Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
+
+<tbody><tr style="vertical-align: top">
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="en">Description<span class="summary fn" style="display:none">Schneider Electric 2007.svg</span></td>
+<td class="description">
+<div class="description mw-content-ltr en" dir="ltr" lang="en"><span class="language en" title="English"><b>English&#58; </b></span> Logo of Schneider Electric</div></td>
+</tr>
+
+<tr style="vertical-align: top">
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="en">Source</td>
+<td>
+<a rel="nofollow" class="external text" href="http://www.schneider-electric.com/documents/presentation/en/local/2008/04/ra2007-eng5.pdf">Schneider Electric Annual Report 2007</a></td>
+</tr>
+
+<tr style="vertical-align: top">
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="en">Author</td>
+<td>
+Unknown author<span style="display: none;">Unknown author</span></td>
+</tr>
+
+
+</tbody></table>
+</div>
+<h2><span class="mw-headline" id="Licensing">Licensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:Schneider_Electric_2007.svg&amp;action=edit&amp;section=2" title="Edit section: Licensing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="licensetpl" style="display:none">
+<tbody><tr>
+<td><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</td></tr></tbody></table>
+<table style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;" class="layouttemplate mw-content-ltr" lang="en">
+<tbody><tr>
+<td width="70px"><img alt="Public domain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png" decoding="async" title="Public domain" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" />
+</td>
+<td><div lang="en" dir="ltr" class="description en" style="display:inline;"><i>This logo image consists only of simple geometric shapes or text. It <b>does not meet the <a href="/wiki/Commons:Threshold_of_originality" title="Commons:Threshold of originality">threshold of originality</a></b> needed for copyright protection, and is therefore in the <b><a href="https://en.wikipedia.org/wiki/public_domain" class="extiw" title="w:public domain">public domain</a></b>. Although it is free of copyright restrictions, this image may still be subject to <a href="/wiki/Commons:Non-copyright_restrictions" title="Commons:Non-copyright restrictions">other restrictions</a>. See <a href="https://en.wikipedia.org/wiki/Wikipedia:Public_domain#Fonts_and_typefaces" class="extiw" title="w:Wikipedia:Public domain">WP:PD#Fonts and typefaces</a> or <a href="/wiki/Template_talk:PD-textlogo" title="Template talk:PD-textlogo">Template talk:PD-textlogo</a> for more information.</i></div>
+</td></tr></tbody></table>
+<table cellspacing="8" cellpadding="0" style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa;" lang="en" dir="ltr" class="layouttemplate restrictiontemplate mw-content-ltr restriction-trademarked">
+<tbody><tr>
+<td style="border:none; width:64px;"><a href="/wiki/Commons:Non-copyright_restrictions" title="Trademarked"><img alt="Trademarked" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Trademark_Warning_Symbol.svg/64px-Trademark_Warning_Symbol.svg.png" decoding="async" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Trademark_Warning_Symbol.svg/96px-Trademark_Warning_Symbol.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Trademark_Warning_Symbol.svg/128px-Trademark_Warning_Symbol.svg.png 2x" data-file-width="64" data-file-height="64" /></a>
+</td>
+<td style="border:none;">This work includes material that may be <b>protected as a <a href="https://en.wikipedia.org/wiki/en:trademark" class="extiw" title="w:en:trademark">trademark</a></b> in some jurisdictions. If you want to use it, you have to ensure that you have the legal right to do so and that you do not infringe any trademark rights. See our <a href="/wiki/Commons:General_disclaimer" title="Commons:General disclaimer">general disclaimer</a>.<br /><small>This tag does not indicate the copyright status of the attached work. <span style="white-space:nowrap">A normal <a href="/wiki/Special:MyLanguage/Commons:Copyright_tags" title="Special:MyLanguage/Commons:Copyright tags">copyright tag</a> is still required.</span> <span style="white-space:nowrap">See <a href="/wiki/Special:MyLanguage/Commons:Licensing" title="Special:MyLanguage/Commons:Licensing">Commons:Licensing</a>.</span></small>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Original_upload_log">Original upload log</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:Schneider_Electric_2007.svg&amp;action=edit&amp;section=3" title="Edit section: Original upload log">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="delh">
+<p>Transferred from <span class="plainlinks"><a class="external text" href="https://de.wikipedia.org">de.wikipedia</a></span> to Commons by <a href="/wiki/User:Wdwdbot" title="User:Wdwdbot">Wdwdbot</a> using script <i>bot_filetrans.pl (r36M)</i>.
+</p>
+<div lang="en" dir="ltr" class="description en" style="display:inline;">The original description page was <a class="external text" href="https://de.wikipedia.org/w/index.php?title=File:Schneider_Electric_2007.svg">here</a>. All following user names refer to de.wikipedia.</div>
+<ul><li>2011-08-10 06:40:00  <a href="https://de.wikipedia.org/wiki/User:Afrank99" class="extiw" title="de:User:Afrank99">Afrank99</a> (11924 Bytes) <i>{{Information |Beschreibung=[[Unternehmenslogo|Logo]] |Quelle=[[:en:File:Schneider Electric.svg]] |Urheber=unbekannt |Datum= |Genehmigung=Marken-/namensrechtlicher Schutz. |Andere Versionen= |Anmerkungen=Bei rechtlichen Unklarheiten siehe: * [[Wikipedia:B</i></li></ul>
+<div lang="en" dir="ltr" class="description en" style="display:inline;">The original description page was <a class="external text" href="https://en.wikipedia.org/w/index.php?title=File:Schneider_Electric.svg">here</a>. All following user names refer to en.wikipedia.</div>
+<ul><li>2008-04-28 12:25 <a href="https://en.wikipedia.org/wiki/User:Gr1st" class="extiw" title="en:User:Gr1st">Gr1st</a> 189×57× (11924 bytes)</li></ul>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1399
+Cached time: 20210525185547
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.144 seconds
+Real time usage: 0.249 seconds
+Preprocessor visited node count: 1048/1000000
+Post‐expand include size: 18825/2097152 bytes
+Template argument size: 3532/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 255/5000000 bytes
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 1210864/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  223.509      1 -total
+ 48.39%  108.156      5 Template:Autotranslate
+ 35.25%   78.780      1 Template:Information
+ 26.83%   59.977      1 Template:Trademark
+ 22.46%   50.190      1 Template:Trademarked/layout
+ 21.06%   47.073      1 Template:PD-textlogo
+ 20.77%   46.415      1 Template:Non-copyright_restriction
+ 10.64%   23.782      1 Template:PD-textlogo/layout
+  7.74%   17.293      1 Template:Copyright-tag-still-required
+  6.79%   15.175      1 Template:En
+-->
+
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:42930420-0!canonical and timestamp 20210525185547 and revision id 403677248. Serialized with JSON.
+ -->
+</div></div><h2 id="filehistory">File history</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Click on a date/time to view the file as it appeared at that time.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="https://upload.wikimedia.org/wikipedia/commons/9/95/Schneider_Electric_2007.svg">00:51, 6 September 2015</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/9/95/Schneider_Electric_2007.svg"><img alt="Thumbnail for version as of 00:51, 6 September 2015" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schneider_Electric_2007.svg/120px-Schneider_Electric_2007.svg.png" decoding="async" width="120" height="36" data-file-width="189" data-file-height="57" /></a></td><td>189 × 57 <span style="white-space: nowrap;">(12 KB)</span></td><td><a href="/wiki/User:Wdwdbot" class="mw-userlink" title="User:Wdwdbot"><bdi>Wdwdbot</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Wdwdbot" class="mw-usertoollinks-talk" title="User talk:Wdwdbot">talk</a> | <a href="/wiki/Special:Contributions/Wdwdbot" class="mw-usertoollinks-contribs" title="Special:Contributions/Wdwdbot">contribs</a>)</span></span></td><td dir="ltr">Bot Move: Original uploader of this revision (#1) was <a href="https://de.wikipedia.org/wiki/User:Afrank99" class="extiw" title="de:User:Afrank99">Afrank99</a> at de.wikipedia</td></tr>
+</table>
+
+</div>
+<div class="mw-imagepage-upload-links"><p id="mw-imagepage-upload-disallowed">You cannot overwrite this file.</p></div><h2 id="filelinks">File usage on Commons</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>The following 2 pages use this file:
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Magog_the_Ogre/PD_ineligible/2015_September_4-6" title="User:Magog the Ogre/PD ineligible/2015 September 4-6">User:Magog the Ogre/PD ineligible/2015 September 4-6</a></li>
+<li class="mw-imagepage-linkstoimage-ns14"><a href="/wiki/Category:Schneider_Electric" title="Category:Schneider Electric">Category:Schneider Electric</a></li>
+</ul>
+</div>
+<h2 id="globalusage">File usage on other wikis</h2>
+<div id="mw-imagepage-section-globalusage"><p>The following other wikis use this file:
+</p><ul>
+<li class='mw-gu-onwiki-af_wikipedia_org'>Usage on af.wikipedia.org
+<ul>	<li><a class="external" href="https://af.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ar_wikipedia_org'>Usage on ar.wikipedia.org
+<ul>	<li><a class="external" href="https://ar.wikipedia.org/wiki/%D8%B4%D9%86%D8%A7%D9%8A%D8%AF%D8%B1_%D8%A5%D9%84%D9%8A%D9%83%D8%AA%D8%B1%D9%8A%D9%83">شنايدر إليكتريك</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-azb_wikipedia_org'>Usage on azb.wikipedia.org
+<ul>	<li><a class="external" href="https://azb.wikipedia.org/wiki/%D8%A7%D8%B4%D9%86%D8%A7%DB%8C%D8%AF%D8%B1_%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9">اشنایدر الکتریک</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ca_wikipedia_org'>Usage on ca.wikipedia.org
+<ul>	<li><a class="external" href="https://ca.wikipedia.org/wiki/Usuari:Setze16/Schneider_Electric">Usuari:Setze16/Schneider Electric</a></li>
+	<li><a class="external" href="https://ca.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-cs_wikipedia_org'>Usage on cs.wikipedia.org
+<ul>	<li><a class="external" href="https://cs.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-da_wikipedia_org'>Usage on da.wikipedia.org
+<ul>	<li><a class="external" href="https://da.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-de_wikipedia_org'>Usage on de.wikipedia.org
+<ul>	<li><a class="external" href="https://de.wikipedia.org/wiki/CAC_40">CAC 40</a></li>
+	<li><a class="external" href="https://de.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+	<li><a class="external" href="https://de.wikipedia.org/wiki/Schneider_Electric_Motion_Deutschland">Schneider Electric Motion Deutschland</a></li>
+	<li><a class="external" href="https://de.wikipedia.org/wiki/Benutzer:SERatingen/Schneider_Electric_Neufassung_2016">Benutzer:SERatingen/Schneider Electric Neufassung 2016</a></li>
+	<li><a class="external" href="https://de.wikipedia.org/wiki/Euronext_100">Euronext 100</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-el_wikipedia_org'>Usage on el.wikipedia.org
+<ul>	<li><a class="external" href="https://el.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-en_wikipedia_org'>Usage on en.wikipedia.org
+<ul>	<li><a class="external" href="https://en.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Schneider_Electric_DMS">Schneider Electric DMS</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-eo_wikipedia_org'>Usage on eo.wikipedia.org
+<ul>	<li><a class="external" href="https://eo.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-es_wikipedia_org'>Usage on es.wikipedia.org
+<ul>	<li><a class="external" href="https://es.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-et_wikipedia_org'>Usage on et.wikipedia.org
+<ul>	<li><a class="external" href="https://et.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-eu_wikipedia_org'>Usage on eu.wikipedia.org
+<ul>	<li><a class="external" href="https://eu.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fa_wikipedia_org'>Usage on fa.wikipedia.org
+<ul>	<li><a class="external" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B4%D9%86%D8%A7%DB%8C%D8%AF%D8%B1_%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9">اشنایدر الکتریک</a></li>
+	<li><a class="external" href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%A7%D9%87:%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF">درگاه:فرانسه/اقتصاد</a></li>
+	<li><a class="external" href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%A7%D9%87:%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%DB%B1%DB%B3">درگاه:فرانسه/اقتصاد/۱۳</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fi_wikipedia_org'>Usage on fi.wikipedia.org
+<ul>	<li><a class="external" href="https://fi.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fr_wikipedia_org'>Usage on fr.wikipedia.org
+<ul>	<li><a class="external" href="https://fr.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+	<li><a class="external" href="https://fr.wikipedia.org/wiki/Forbes_Global_2000">Forbes Global 2000</a></li>
+	<li><a class="external" href="https://fr.wikipedia.org/wiki/Didier_Pineau-Valencienne">Didier Pineau-Valencienne</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-he_wikipedia_org'>Usage on he.wikipedia.org
+<ul>	<li><a class="external" href="https://he.wikipedia.org/wiki/%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8_%D7%90%D7%9C%D7%A7%D7%98%D7%A8%D7%99%D7%A7">שניידר אלקטריק</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-hu_wikipedia_org'>Usage on hu.wikipedia.org
+<ul>	<li><a class="external" href="https://hu.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-is_wikipedia_org'>Usage on is.wikipedia.org
+<ul>	<li><a class="external" href="https://is.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-it_wikipedia_org'>Usage on it.wikipedia.org
+<ul>	<li><a class="external" href="https://it.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ja_wikipedia_org'>Usage on ja.wikipedia.org
+<ul>	<li><a class="external" href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8A%E3%82%A4%E3%83%80%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF">シュナイダーエレクトリック</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ko_wikipedia_org'>Usage on ko.wikipedia.org
+<ul>	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EC%8A%88%EB%82%98%EC%9D%B4%EB%8D%94_%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A6%AD">슈나이더 일렉트릭</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ms_wikipedia_org'>Usage on ms.wikipedia.org
+<ul>	<li><a class="external" href="https://ms.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-nl_wikipedia_org'>Usage on nl.wikipedia.org
+<ul>	<li><a class="external" href="https://nl.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-no_wikipedia_org'>Usage on no.wikipedia.org
+<ul>	<li><a class="external" href="https://no.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-pl_wikipedia_org'>Usage on pl.wikipedia.org
+<ul>	<li><a class="external" href="https://pl.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-pt_wikipedia_org'>Usage on pt.wikipedia.org
+<ul>	<li><a class="external" href="https://pt.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ro_wikipedia_org'>Usage on ro.wikipedia.org
+<ul>	<li><a class="external" href="https://ro.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-th_wikipedia_org'>Usage on th.wikipedia.org
+<ul>	<li><a class="external" href="https://th.wikipedia.org/wiki/%E0%B8%8A%E0%B9%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%B4%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%84%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%84">ชไนเดอร์อิเล็คทริค</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-uk_wikipedia_org'>Usage on uk.wikipedia.org
+<ul>	<li><a class="external" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87:Schneider_Electric">Користувач:Schneider Electric</a></li>
+	<li><a class="external" href="https://uk.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-vi_wikipedia_org'>Usage on vi.wikipedia.org
+<ul>	<li><a class="external" href="https://vi.wikipedia.org/wiki/Schneider_Electric">Schneider Electric</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-www_wikidata_org'>Usage on www.wikidata.org
+<ul>	<li><a class="external" href="https://www.wikidata.org/wiki/Q49053">Q49053</a></li>
+	<li><a class="external" href="https://www.wikidata.org/wiki/Q1546957">Q1546957</a></li>
+</ul></li>
+</ul>
+</div><h2 id="metadata">Metadata</h2>
+<div class="mw-imagepage-section-metadata"><p>This file contains additional information such as Exif metadata which may have been added by the digital camera, scanner, or software program used to create or digitize it. If the file has been modified from its original state, some details such as the timestamp may not fully reflect those of the original file. The timestamp is only as accurate as the clock in the camera, and it may be completely wrong.</p><table id="mw_metadata" class="mw_metadata collapsed">
+<tbody><tr class="exif-imagewidth mw-metadata-collapsible"><th>Width</th><td>188.74001</td></tr><tr class="exif-imagelength mw-metadata-collapsible"><th>Height</th><td>57</td></tr></tbody></table>
+</div><noscript><img src="//commons.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div role='tabpanel' id='ooui-php-5' class='wbmi-tab oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-scrollable oo-ui-tabPanelLayout' data-ooui='{"_":"OO.ui.TabPanelLayout","name":"statements","label":"Structured data","scrollable":true,"expanded":false,"classes":["wbmi-tab"]}'><h2 class="wbmi-structured-data-header">Structured data</h2><div id='P180' data-property='P180' data-statements='[]' data-formatvalue='[]' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h3 class='wbmi-statements-title'>Items portrayed in this file</h3><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">depicts</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'></div></div></div></div></div></div></div></div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://commons.wikimedia.org/w/index.php?title=File:Schneider_Electric_2007.svg&amp;oldid=403677248">https://commons.wikimedia.org/w/index.php?title=File:Schneider_Electric_2007.svg&amp;oldid=403677248</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Schneider_Electric_logos" title="Category:Schneider Electric logos">Schneider Electric logos</a></li><li><a href="/wiki/Category:Green_text_logos" title="Category:Green text logos">Green text logos</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-user-shown">Hidden categories: <ul><li><a href="/wiki/Category:Template_Unknown_(author)" title="Category:Template Unknown (author)">Template Unknown (author)</a></li><li><a href="/wiki/Category:PD_textlogo" title="Category:PD textlogo">PD textlogo</a></li><li><a href="/wiki/Category:SVG_text_logos" title="Category:SVG text logos">SVG text logos</a></li><li><a href="/wiki/Category:With_trademark" title="Category:With trademark">With trademark</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-uls" class="active"><a href="#" class="uls-trigger">English</a></li><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File%3ASchneider+Electric+2007.svg" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3ASchneider+Electric+2007.svg" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-image" class="selected"><a href="/wiki/File:Schneider_Electric_2007.svg" title="View the file page [c]" accesskey="c">File</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=File_talk:Schneider_Electric_2007.svg&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/File:Schneider_Electric_2007.svg">View</a></li><li id="ca-edit"><a href="/w/index.php?title=File:Schneider_Electric_2007.svg&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=File:Schneider_Electric_2007.svg&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikimedia Commons" autocapitalize="sentences" title="Search Wikimedia Commons [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:MediaSearch"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigate</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-welcome"><a href="/wiki/Commons:Welcome">Welcome</a></li><li id="n-portal"><a href="/wiki/Commons:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-village-pump"><a href="/wiki/Commons:Village_pump">Village pump</a></li><li id="n-help"><a href="/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help center</a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-participate" class="mw-portlet mw-portlet-participate vector-menu vector-menu-portal portal" aria-labelledby="p-participate-label" role="navigation" 
+	 >
+	<h3 id="p-participate-label" class="vector-menu-heading">
+		<span>Participate</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-uploadbtn"><a href="/wiki/Special:UploadWizard">Upload file</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-latestfiles"><a href="/wiki/Special:NewFiles">Latest files</a></li><li id="n-randomimage"><a href="/wiki/Special:Random/File" title="Load a random file [x]" accesskey="x">Random file</a></li><li id="n-contact"><a href="/wiki/Commons:Contact_us">Contact us</a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/File:Schneider_Electric_2007.svg" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/File:Schneider_Electric_2007.svg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=File:Schneider_Electric_2007.svg&amp;oldid=403677248" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=File:Schneider_Electric_2007.svg&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wb-concept-uri"><a href="https://commons.wikimedia.org/entity/M42930420" title="URI that identifies the concept described by this Item">Concept URI</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=File%3ASchneider_Electric_2007.svg&amp;id=403677248&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-electronpdfservice-sidebar-portlet-heading" class="mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading vector-menu vector-menu-portal portal" aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" role="navigation" 
+	 >
+	<h3 id="p-electronpdfservice-sidebar-portlet-heading-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="electron-print_pdf"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=File%3ASchneider_Electric_2007.svg&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 12 March 2020, at 17:50.</li>
+	<li id="footer-info-copyright">Files are available under licenses specified on their description page. All structured data from the file and property namespaces is available under the <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; all unstructured text is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution-ShareAlike License</a>;
+additional terms may apply.
+By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> and the <a href="//foundation.wikimedia.org/wiki/Privacy_policy" title="Wikimedia Foundation Privacy Policy">Privacy Policy</a>.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Commons:Welcome" title="Commons:Welcome">About Wikimedia Commons</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Commons:General_disclaimer" title="Commons:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-mobileview"><a href="//commons.m.wikimedia.org/w/index.php?title=File:Schneider_Electric_2007.svg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/commons.wikimedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.249","ppvisitednodes":{"value":1048,"limit":1000000},"postexpandincludesize":{"value":18825,"limit":2097152},"templateargumentsize":{"value":3532,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":255,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  223.509      1 -total"," 48.39%  108.156      5 Template:Autotranslate"," 35.25%   78.780      1 Template:Information"," 26.83%   59.977      1 Template:Trademark"," 22.46%   50.190      1 Template:Trademarked/layout"," 21.06%   47.073      1 Template:PD-textlogo"," 20.77%   46.415      1 Template:Non-copyright_restriction"," 10.64%   23.782      1 Template:PD-textlogo/layout","  7.74%   17.293      1 Template:Copyright-tag-still-required","  6.79%   15.175      1 Template:En"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":1210864,"limit":52428800}},"cachereport":{"origin":"mw1399","timestamp":"20210525185547","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/95\/Schneider_Electric_2007.svg","license":"https:\/\/commons.wikimedia.org\/wiki\/Help:Public_domain","acquireLicensePage":"\/\/commons.wikimedia.org\/wiki\/File:Schneider_Electric_2007.svg","uploadDate":"2015-09-06 00:51:00"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":268,"wgHostname":"mw1333"});});</script>
+</body></html>
