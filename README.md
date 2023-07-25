@@ -5,7 +5,7 @@
 
 - 📝 I write articles on [metalop.com](metalop.com) and [opensourceforyou.com](https://www.opensourceforu.com/author/shiva-saxena/)
 
-- 💬 Ask me about **Java, Three.js, C#, Security and Compliance**
+- 💬 Ask me about **Java, OData Three.js, C#, Security and Compliance**
 
 - 📫 How to reach me **shivasaxena999[at]gmail.com**
 
@@ -23,6 +23,7 @@
 
 <hr/>
 
+
 <h3 align="left">Stats for nerds:</h3>
 
 <h4 align="left">Github Details</h4>
@@ -31,3 +32,5 @@
 
 <h4 align="left">StackOverflow Details</h4>
 <a href="https://stackexchange.com/users/2904628"><img src="https://stackexchange.com/users/flair/2904628.png?theme=dark" width="208" height="58" alt="profile for Shiva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Shiva on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+<h3 align="left">The views expressed on this website are my own and do not necessarily reflect the views of Oracle</h3>
