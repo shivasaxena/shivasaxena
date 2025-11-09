@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="shivasaxena" /> </p>
 
-- 📝 I write articles on [metalop.com](https://metalop.com) and [opensourceforyou.com](https://www.opensourceforu.com/author/shiva-saxena/)
+- 📝 I write articles on [metalop.com](https://metalop.com){:target="_blank" rel="noopener"} and [opensourceforyou.com](https://www.opensourceforu.com/author/shiva-saxena/){:target="_blank" rel="noopener"}
 
 - 💬 Ask me about **Java, OData Three.js, C#, Security and Compliance**
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shivasaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivasaxena/shivasaxena/main/files/linkedin.svg" alt="2490343" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/2490343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2490343" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivasaxena" target="_blank"><img align="center" src="https://raw.githubusercontent.com/shivasaxena/shivasaxena/main/files/linkedin.svg" alt="2490343" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2490343" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2490343" height="30" width="40" /></a>
 </p>
 
 
